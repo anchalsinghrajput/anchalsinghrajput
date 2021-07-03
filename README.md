@@ -15,8 +15,3 @@
     <li>Web development</li>
     <li>Data structure and algorithm</li>
   </ul>
-<style>
-  h3{
-  font-decoration:underline;
-  }
-  </style>
