@@ -3,7 +3,7 @@
 <h3> About me </h3>
 <ul>
   <li>I'm a Student at Dayananda Sagar institution.</li>
-  <li>First year Btech CSE student.</l
+  <li>First year Btech CSE student.</li>
 </ul>
 <h3> Contact me </h3>
 <ul>
