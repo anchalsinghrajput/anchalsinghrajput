@@ -1,4 +1,4 @@
-### Hi, i'm Anchal Singh.👋
+### Hi, this is Anchal Singh.👋
 
 - I'm first year Btech student.
 - 🌱 I’m currently learning web development and data structure and algorithm.
