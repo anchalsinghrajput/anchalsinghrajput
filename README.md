@@ -1,6 +1,6 @@
 ### <h1 background colour="purple">Hi, I'm Anchal Singh.👋</h1>
 
-<h3> About me </h3>
+<h3>About me</h3>
 <ul>
   <li>I'm a Student at Dayananda Sagar institution.</li>
   <li>First year Btech CSE student.</li>
@@ -15,3 +15,8 @@
     <li>Web development</li>
     <li>Data structure and algorithm</li>
   </ul>
+<style>
+  h3{
+  font-decoration:underline;
+  }
+  </style>
