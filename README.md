@@ -13,7 +13,7 @@
 I am a Computer Science Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - 🔭 Currently, I'm working on my front-end and back-end skills. 
-- ⚡ I solve data structure questions on LeetCode to enhance my coding logic. 
+- ⚡ I solve coding questions on LeetCode to enhance my coding logic. 
 - 🌱 I also love exploring multiple technologies like machine learning and artificial intelligence.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Anchal-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anchal-singh-110b131a6/)
 
